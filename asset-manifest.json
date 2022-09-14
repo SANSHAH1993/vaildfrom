@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vaildfrom/static/css/main.bead1d3a.css",
+    "main.js": "/vaildfrom/static/js/main.8c33012d.js",
+    "index.html": "/vaildfrom/index.html",
+    "main.bead1d3a.css.map": "/vaildfrom/static/css/main.bead1d3a.css.map",
+    "main.8c33012d.js.map": "/vaildfrom/static/js/main.8c33012d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bead1d3a.css",
+    "static/js/main.8c33012d.js"
+  ]
+}
