@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Webseries/static/css/main.bead1d3a.css",
-    "main.js": "/Webseries/static/js/main.8c33012d.js",
-    "index.html": "/Webseries/index.html",
-    "main.bead1d3a.css.map": "/Webseries/static/css/main.bead1d3a.css.map",
-    "main.8c33012d.js.map": "/Webseries/static/js/main.8c33012d.js.map"
+    "main.css": "/inputform/static/css/main.bead1d3a.css",
+    "main.js": "/inputform/static/js/main.8c33012d.js",
+    "index.html": "/inputform/index.html",
+    "main.bead1d3a.css.map": "/inputform/static/css/main.bead1d3a.css.map",
+    "main.8c33012d.js.map": "/inputform/static/js/main.8c33012d.js.map"
   },
   "entrypoints": [
     "static/css/main.bead1d3a.css",
