@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/inputform/static/css/main.bead1d3a.css",
-    "main.js": "/inputform/static/js/main.8c33012d.js",
-    "index.html": "/inputform/index.html",
-    "main.bead1d3a.css.map": "/inputform/static/css/main.bead1d3a.css.map",
-    "main.8c33012d.js.map": "/inputform/static/js/main.8c33012d.js.map"
+    "main.css": "/forminput/static/css/main.bead1d3a.css",
+    "main.js": "/forminput/static/js/main.8c33012d.js",
+    "index.html": "/forminput/index.html",
+    "main.bead1d3a.css.map": "/forminput/static/css/main.bead1d3a.css.map",
+    "main.8c33012d.js.map": "/forminput/static/js/main.8c33012d.js.map"
   },
   "entrypoints": [
     "static/css/main.bead1d3a.css",
